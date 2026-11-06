@@ -1,4 +1,4 @@
-# figma-ui-update
+﻿# figma-ui-update
 
 AI Skill สำหรับปรับ UI ที่มีอยู่แล้วให้ตรงกับ design ล่าสุดจาก Figma อย่างปลอดภัย
 
@@ -35,10 +35,10 @@ clone repo นี้ไปไว้ในโฟลเดอร์ skills ตา�
 
 ```bash
 # ใช้ได้ทุก project ในเครื่อง
-git clone <repo-url> ~/.claude/skills/figma-ui-update
+git clone https://github.com/Dev-Pongsit/figma-ui-update.git ~/.claude/skills/figma-ui-update
 
 # ใช้เฉพาะ project เดียว
-git clone <repo-url> <project>/.claude/skills/figma-ui-update
+git clone https://github.com/Dev-Pongsit/figma-ui-update.git <project>/.claude/skills/figma-ui-update
 ```
 
 หรือดาวน์โหลดเป็น zip แล้วแตกไฟล์ไปไว้ที่ path เดียวกัน
