@@ -34,13 +34,13 @@ figma-ui-update/
 clone repo แล้ว copy โฟลเดอร์ `skills/figma-ui-update` ไปไว้ในโฟลเดอร์ skills ตามขอบเขตที่ต้องการ:
 
 ```bash
-git clone https://github.com/Dev-Pongsit/claude-skills.git
+git clone https://github.com/Dev-Pongsit/claude-skils.git
 
 # ใช้ได้ทุก project ในเครื่อง
-cp -r claude-skills/skills/figma-ui-update ~/.claude/skills/
+cp -r claude-skils/skills/figma-ui-update ~/.claude/skills/
 
 # ใช้เฉพาะ project เดียว
-cp -r claude-skills/skills/figma-ui-update <project>/.claude/skills/
+cp -r claude-skils/skills/figma-ui-update <project>/.claude/skills/
 ```
 
 หรือดาวน์โหลดเป็น zip แล้วแตกไฟล์ไปไว้ที่ path เดียวกัน

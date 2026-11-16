@@ -1,4 +1,4 @@
-# claude-skills
+# claude-skils
 
 ตัวอย่าง Agent Skills ที่ใช้กับงาน frontend (Claude Code และ agent ที่รองรับมาตรฐาน Agent Skills)
 
@@ -11,13 +11,13 @@
 ## ติดตั้ง
 
 ```bash
-git clone https://github.com/Dev-Pongsit/claude-skills.git
+git clone https://github.com/Dev-Pongsit/claude-skils.git
 
 # ทุก project ในเครื่อง
-cp -r claude-skills/skills/<skill-name> ~/.claude/skills/
+cp -r claude-skils/skills/<skill-name> ~/.claude/skills/
 
 # เฉพาะ project เดียว
-cp -r claude-skills/skills/<skill-name> <project>/.claude/skills/
+cp -r claude-skils/skills/<skill-name> <project>/.claude/skills/
 ```
 
 ไม่ต้องติดตั้ง dependency เพิ่ม เรียกใช้ด้วย `/<skill-name>` หรือพูดถึงงานที่ตรงกับ description ของ skill
